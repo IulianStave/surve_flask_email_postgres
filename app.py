@@ -11,6 +11,7 @@ pip3 install flask
 pip3 install flask_sqlalchemy
 
 sudo apt-get install python3-setuptools
+sudo apt install libpq-dev python3-dev
 
 pip3 install psycopg2
 in pgadmin4 create the database before running the script app.py within virtual environment created
