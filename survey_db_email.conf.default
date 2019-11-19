@@ -1,0 +1,6 @@
+email_address
+email_password
+postgres_user
+postgres_password
+db_name
+table_name
